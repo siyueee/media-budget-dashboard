@@ -11,7 +11,7 @@ from typing import Tuple, Union, Dict, List
 #  全局配置
 # ==============================================================================
 CONFIG = {
-    'INPUT_FILE': r'C:.\data\OCPX业务报表 (6).xlsx',
+    'INPUT_FILE': 'data/OCPX业务报表 (4).xlsx',
     'ORDER_FILE': r'订单明细.xlsx',
     'OUTPUT_FILE': r'媒体预算日数据.xlsx',
     'KPI_CONFIG_FILE': r'订单考核.json',

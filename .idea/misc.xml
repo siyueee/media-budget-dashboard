@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (媒体预算汇总)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (media-budget-dashboard)" project-jdk-type="Python SDK" />
 </project>
